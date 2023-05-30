@@ -36,4 +36,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icethedev2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+GIFs from https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/
+
 Made with the help of this article: https://www.sitepoint.com/github-profile-readme/
