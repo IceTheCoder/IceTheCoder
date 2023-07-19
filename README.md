@@ -20,23 +20,29 @@
   <img src="https://komarev.com/ghpvc/?username=icethedev2&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="campfire" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"/>
-</div>
+## About me
 
-### Hi👋
+### I am a 14-year-old passionate about learning to code and I love game development.
+## Current projects
+  ### 🎮[light game](https://github.com/IceTheDev2/light-game), a game where you control a light that grows larger the faster you move (Unity): [Download](https://icethedev2.itch.io/light-game);
+  ### 🔎[QuoteMark Finder](https://github.com/IceTheDev2/QuoteMark-Finder), a quotation mark lookup for dozens of languages (HTML and JavaScript).
+## Discontinued projects
+  ### 🔒[Passwordsy](https://github.com/IceTheDev2/Passwordsy), a password generation and strength checker (Python and Tkinter).
 
-#### I am a 14-year-old passionate about learning to code.
-- 🔭 I’m currently working on [light game](https://github.com/IceTheDev2/light-game), a game where you control a light that gets larger the faster you move.
-- 📫 How to reach me: icethedev2@gmail.com
+## Contact
+- 📫 How to reach me: icethedev2@gmail.com.
 
 
-### :fire: My Stats
+## My Stats
+
+### I've been coding since Fall 2022. I've coded in HTML, CSS, JavaScript, Python, and C#.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IceTheDev2&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icethedev2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-GIFs from https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/
+GIFs from https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/; Made with the help of this article: https://www.sitepoint.com/github-profile-readme/ and with the help of [ChatGPT](https://chat.openai.com/).
 
-Made with the help of this article: https://www.sitepoint.com/github-profile-readme/
+<div id="campfire" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"/>
+</div>
