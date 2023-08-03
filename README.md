@@ -24,7 +24,7 @@
 
 ### I am a 14-year-old passionate about learning to code and I love game development.
 ## Current projects
-  ### 🎮[light game](https://github.com/icethegamedev/light-game), a game where you control a light that grows larger the faster you move (Unity): [Download](https://icethegamedev.itch.io/light-game);
+  ### 🎮[LIGHT GAME](https://github.com/icethegamedev/light-game), a game where you control a light that grows larger the faster you move (Unity): [Download](https://icethegamedev.itch.io/light-game);
   ### 🔎[QuoteMark Finder](https://github.com/icethegamedev/QuoteMark-Finder), a quotation mark lookup for dozens of languages (HTML and JavaScript).
 ## Discontinued projects
   ### 🔒[Passwordsy](https://github.com/icethegamedev/Passwordsy), a password generation and strength checker (Python and Tkinter).
