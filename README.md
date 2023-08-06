@@ -37,12 +37,14 @@
 
 ### I've been coding since Fall 2022. I've coded in HTML, CSS, JavaScript, Python, and C#.
 
+<div id="campfire" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"/>
+</div>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=icethegamedev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icethegamedev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 GIFs from https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/; Made with the help of this article: https://www.sitepoint.com/github-profile-readme/ and with the help of [ChatGPT](https://chat.openai.com/).
 
-<div id="campfire" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"/>
-</div>
+
