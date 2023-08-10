@@ -30,7 +30,7 @@
   ### 🔒[Passwordsy](https://github.com/icethegamedev/Passwordsy), a password generation and strength checker (Python and Tkinter).
 
 ## Contact
-- 📫 How to reach me: icethegamedev@yahoo.com.
+#### 📫 How to reach me: icethegamedev@yahoo.com.
 
 
 ## My Stats
