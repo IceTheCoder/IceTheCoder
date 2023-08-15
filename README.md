@@ -21,7 +21,6 @@
 </div>
 
 ## About me
-
 ### I am a 14-year-old passionate about learning to code and I love game development.
 ## Current projects
   ### 🎮[LIGHT GAME](https://github.com/icethegamedev/light-game) (Unity)
