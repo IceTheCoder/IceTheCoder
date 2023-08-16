@@ -21,7 +21,7 @@
 </div>
 
 ## About me
-### I am a 14-year-old passionate about learning to code and I love game development.
+### I am a 14-year-old who loves coding and especially game development and who is constantly in the pursuit to learn more.
 ## Current projects
   ### 🎮[LIGHT GAME](https://github.com/icethegamedev/light-game) (Unity)
   #### You are a light that grows larger the faster you move. Avoid running into triangles and find the green square to win. [Download](https://icethegamedev.itch.io/light-game);
