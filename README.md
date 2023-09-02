@@ -20,16 +20,16 @@
   <img src="https://komarev.com/ghpvc/?username=icethegamedev&style=flat-square&color=blue" alt=""/>
 </div>
 
-## About me
+# About me
 ### I am a 14-year-old who loves coding and especially game development and who is constantly in the pursuit to learn more.
-## Current projects
-  ### 🎮[LIGHT GAME](https://github.com/icethegamedev/light-game) (Unity)
-  #### You are a light that grows larger the faster you move. Avoid running into triangles and find the green square to win. [Download](https://icethegamedev.itch.io/light-game);
-  ### 🔎[QuoteMark Finder](https://github.com/icethegamedev/QuoteMark-Finder) (HTML and JavaScript)
-  #### Quotation mark look-up for dozens of languages
-## Discontinued projects
-  ### 🔒[Passwordsy](https://github.com/icethegamedev/Passwordsy) (Python and Tkinter)
-  #### A password generator and strength checker
+# Current projects
+  ## 🎮[LIGHT GAME](https://github.com/icethegamedev/light-game) (Unity)
+  ### You are a light that grows larger the faster you move. Avoid running into triangles and find the green square to win. [Download](https://icethegamedev.itch.io/light-game);
+  ## 🔎[QuoteMark Finder](https://github.com/icethegamedev/QuoteMark-Finder) (HTML and JavaScript)
+  ### Quotation mark look-up for dozens of languages
+# Discontinued projects
+  ## 🔒[Passwordsy](https://github.com/icethegamedev/Passwordsy) (Python and Tkinter)
+  ### A password generator and strength checker
 
 ## Contact
 #### 📫 How to reach me: icethegamedev@yahoo.com.
