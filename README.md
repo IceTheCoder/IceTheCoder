@@ -36,7 +36,7 @@
   ## 🎮[LIGHT GAME](https://github.com/icethegamedev/light-game) (Unity)
   ### You are a light that grows larger the faster you move. Avoid running into triangles and find the green square to win. [Download](https://icethegamedev.itch.io/light-game)
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53163399644/in/dateposted-public/" title="278"><img src="https://live.staticflickr.com/65535/53163399644_9ced36e1c7_o.png"/></a>
-  ## 🔎[QuoteMark Finder](https://github.com/icethegamedev/QuoteMark-Finder) (HTML and JavaScript)
+  ## 🔎[QuoteMark Finder](https://github.com/icethegamedev/QuoteMark-Finder) (HTML, JavaScript, and CSS)
   ### Quotation mark look-up for dozens of languages
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53162612797/in/dateposted-public/" title="286"><img src="https://live.staticflickr.com/65535/53162612797_c92bbe5372_o.png"/></a>
 # Discontinued projects
