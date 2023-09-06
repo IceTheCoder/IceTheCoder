@@ -25,7 +25,7 @@
 
 ## My Stats
 
-### I've been coding since early Fall 2022. I've coded in HTML, CSS, JavaScript, Python, and C#.
+### I've been coding since early Fall 2022. I've coded in HTML, CSS, JavaScript, Python, and C# (in Unity).
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=icethegamedev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
