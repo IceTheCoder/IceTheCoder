@@ -21,7 +21,7 @@
 </div>
 
 # About me
-### I am a 14-year-old who loves coding (especially game development) and who is constantly in pursuit of learning more.
+### I am a 14 year old who loves coding (especially game development) and who is constantly in pursuit of learning more.
 
 ## My Stats
 
