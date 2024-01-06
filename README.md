@@ -24,9 +24,9 @@
 
 ### I have been coding since early Fall 2022. I've coded in HTML, CSS, JavaScript, Python, and C# (in Unity).
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=icethegamedev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=icethecoder&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icethegamedev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icethecoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Current projects
