@@ -5,10 +5,7 @@
   <a href="https://www.youtube.com/channel/UCBqVJU4gjeik1RavAsVR6Pg">
     <img src="https://img.shields.io/badge/Youtube-darkred?logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.tiktok.com/@icethegamedev">
-    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok Badge"/>
-  </a>
-  <a href="https://www.instagram.com/icethegamedev/">
+  <a href="https://www.instagram.com/icethecoder/">
     <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
   <a href="https://www.reddit.com/user/AnEntirePeach">
@@ -17,11 +14,11 @@
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=icethegamedev&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=icethecoder&style=flat-square&color=blue" alt=""/>
 </div>
 
 # About me
-### I am a 14-year-old who loves coding (especially game development) and who is constantly in pursuit of learning more.
+### I am a 15-year-old who loves coding (especially game development) and who is constantly in pursuit of learning more.
 
 ## My Stats
 
@@ -33,16 +30,17 @@
 
 
 # Current projects
+I'm currently following the [Frontend Developer Roadmap](https://roadmap.sh/frontend?r=frontend-beginner) at roadmap.sh.
+# Discontinued projects
+  ## 🔒[Passwordsy](https://github.com/icethegamedev/Passwordsy) (Python and Tkinter)
+  ### A password generator and strength checker
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53163694708/in/dateposted-public/" title="12334"><img src="https://live.staticflickr.com/65535/53163694708_ebd90e2f60_o.png"/></a>
   ## 🎮[LIGHT GAME](https://github.com/icethegamedev/light-game) (Unity)
   ### You are a light that grows larger the faster you move. Avoid running into triangles and find the green square to win. [Download](https://icethegamedev.itch.io/light-game)
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53163399644/in/dateposted-public/" title="278"><img src="https://live.staticflickr.com/65535/53163399644_9ced36e1c7_o.png"/></a>
   ## 🔎[QuoteMark Finder](https://github.com/icethegamedev/QuoteMark-Finder) (HTML, JavaScript, and CSS)
   ### Quotation mark look-up for dozens of languages
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53162612797/in/dateposted-public/" title="286"><img src="https://live.staticflickr.com/65535/53162612797_c92bbe5372_o.png"/></a>
-# Discontinued projects
-  ## 🔒[Passwordsy](https://github.com/icethegamedev/Passwordsy) (Python and Tkinter)
-  ### A password generator and strength checker
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53163694708/in/dateposted-public/" title="12334"><img src="https://live.staticflickr.com/65535/53163694708_ebd90e2f60_o.png"/></a>
 
 ## Contact
 #### 📫 How to reach me: icethegamedev@yahoo.com.
