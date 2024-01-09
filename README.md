@@ -30,7 +30,7 @@
 
 
 # Current projects
-I'm currently following the [Frontend Developer Roadmap](https://roadmap.sh/frontend?r=frontend-beginner) at roadmap.sh.
+I'm currently following the [Frontend Developer Roadmap](https://roadmap.sh/frontend?r=frontend-beginner) at roadmap.sh. [Here](https://github.com/IceTheCoder/html-practice-projects) is my practice repo.
 # Discontinued projects
   ## 🔒[Passwordsy](https://github.com/icethegamedev/Passwordsy) (Python and Tkinter)
   ### A password generator and strength checker
