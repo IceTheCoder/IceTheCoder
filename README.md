@@ -18,7 +18,7 @@
 </div>
 
 # About me
-### I am a 15-year-old who loves coding (especially web development) and who is constantly in pursuit of learning more things.
+### I am a 15-year-old who loves coding (especially web development) and who is constantly in pursuit of learning more stuff.
 
 ## My Stats
 
