@@ -30,7 +30,7 @@
 
 
 # Current projects
-I'm currently following the [Frontend Developer Roadmap](https://roadmap.sh/frontend?r=frontend-beginner) at roadmap.sh. [Here](https://github.com/IceTheCoder/html-practice-projects) is my practice repo, which includes, among other stuff: 
+I'm currently following the [Frontend Developer Roadmap](https://roadmap.sh/frontend?r=frontend-beginner) at roadmap.sh. [Here](https://github.com/IceTheCoder/html-practice-projects) is my practice repo, which includes, among other things: 
 ## A landing page
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53559745566/in/dateposted-public/" title="2024-02-29-001"><img src="https://live.staticflickr.com/65535/53559745566_d86d71dea2_o.png" alt="Landing page about a blog with call-to-action, form, benefits, reviews, testimonials, images, and a caution that this blog is fictional."/></a>
 # Discontinued projects
