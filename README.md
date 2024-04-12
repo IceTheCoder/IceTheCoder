@@ -31,6 +31,8 @@
 
 # Current projects
 I'm currently following the [Frontend Developer Roadmap](https://roadmap.sh/frontend?r=frontend-beginner) at roadmap.sh. [Here](https://github.com/IceTheCoder/html-practice-projects) is my practice repo, which includes, among other things: 
+## An event page
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53649145873/in/dateposted-public/" title="frostcode"><img src="https://live.staticflickr.com/65535/53649145873_6f476c6c59_k.jpg" alt="frostcode"/></a>
 ## A restaurant website
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53620542819/in/dateposted-public/" title="1"><img src="https://live.staticflickr.com/65535/53620542819_634d3f530d_k.jpg" alt="A fictional restaurant website with several pages, a couple of forms, and an image carousel."/></a>
 ## A landing page
