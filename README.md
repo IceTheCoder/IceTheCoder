@@ -49,7 +49,7 @@ I'm currently following the [Frontend Developer Roadmap](https://roadmap.sh/fron
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53162612797/in/dateposted-public/" title="286"><img src="https://live.staticflickr.com/65535/53162612797_c92bbe5372_o.png"/></a>
 
 ## Contact
-#### 📫 Reach me via GitHub.
+#### 📫 Reach me via GitHub
 
 GIFs from https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/; Made with the help of this article: https://www.sitepoint.com/github-profile-readme/ and with the help of [ChatGPT](https://chat.openai.com/).
 
