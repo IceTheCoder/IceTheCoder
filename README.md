@@ -34,10 +34,8 @@
 I'm currently following the [Frontend Developer Roadmap](https://roadmap.sh/frontend?r=frontend-beginner) at roadmap.sh. [Here](https://github.com/IceTheCoder/html-practice-projects) is my practice repo, which includes, among other things: 
 ## An event page
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53649145873/in/dateposted-public/" title="frostcode"><img src="https://live.staticflickr.com/65535/53649145873_6f476c6c59_k.jpg" alt="frostcode"/></a>
-## A restaurant website
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53620542819/in/dateposted-public/" title="1"><img src="https://live.staticflickr.com/65535/53620542819_634d3f530d_k.jpg" alt="A fictional restaurant website with several pages, a couple of forms, and an image carousel."/></a>
-## A landing page
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53559745566/in/dateposted-public/" title="2024-02-29-001"><img src="https://live.staticflickr.com/65535/53559745566_d86d71dea2_o.png" alt="Landing page about a blog with call-to-action, form, benefits, reviews, testimonials, images, and a caution that this blog is fictional."/></a>
+## A tribute page
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53697747734/in/dateposted-public/" title="2024-05-1144-pc-1080p"><img src="https://live.staticflickr.com/65535/53697747734_3faa05e9b8_o.png" width="1920" alt="Steve Jobs tribute page"/></a>
 # Discontinued projects
   ## 🔒[Passwordsy](https://github.com/icethegamedev/Passwordsy) (Python and Tkinter)
   ### A password generator and strength checker
