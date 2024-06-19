@@ -18,12 +18,12 @@
 </div>
 
 # About me
-### I am a 15-year-old who loves coding (especially web development) and who is constantly in pursuit of learning more stuff.
+### I am a 15-year-old who loves coding (especially web and game development) and who is constantly in pursuit of learning more stuff.
 #### Site: https://icethecoder.github.io/ (work-in-progress)
 
 ## My Stats
 
-### I have been coding since early Fall 2022. I've coded in HTML, CSS, JavaScript, Python, and C# (in Unity).
+### I have been coding since early Fall 2022. I've coded in HTML, CSS, JavaScript, Python, and C#. I've used the Unity (C#) and Phaser (JavaScript) game engines.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=icethecoder&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
