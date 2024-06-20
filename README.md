@@ -31,7 +31,14 @@
 
 
 # Current projects
-I'm currently following the [Frontend Developer Roadmap](https://roadmap.sh/frontend?r=frontend-beginner) at roadmap.sh. [Here](https://github.com/IceTheCoder/html-practice-projects) is my practice repo, which includes, among other things: 
+I'm currently following the [Frontend Developer](https://roadmap.sh/frontend?r=frontend-beginner) and [JavaScript](https://roadmap.sh/javascript) roadmaps at roadmap.sh. 
+
+## Snake 
+I've built a basic snake game in the Phaser game engine using JavaScript, which can be played at [icethecoder.github.io/snake](https://icethecoder.github.io/snake/).
+![image](https://github.com/IceTheCoder/IceTheCoder/assets/115871297/50063ad1-db82-49a5-8837-64ed02cd7117)
+
+
+I also have a [practice repo](https://github.com/IceTheCoder/html-practice-projects), which includes, among other things: 
 ## An event page
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/197764307@N08/53649145873/in/dateposted-public/" title="frostcode"><img src="https://live.staticflickr.com/65535/53649145873_6f476c6c59_k.jpg" alt="frostcode"/></a>
 ## A tribute page
