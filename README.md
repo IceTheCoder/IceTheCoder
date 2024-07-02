@@ -36,7 +36,7 @@ I'm currently following the [Frontend Developer](https://roadmap.sh/frontend?r=f
 ## Snake 
 I've built a basic snake game in the Phaser game engine using JavaScript, which can be played at [icethecoder.github.io/snake](https://icethecoder.github.io/snake/). Its source code can be found [here](https://github.com/IceTheCoder/snake).
 
-![image](https://github.com/IceTheCoder/IceTheCoder/assets/115871297/50063ad1-db82-49a5-8837-64ed02cd7117)
+![image](https://github.com/IceTheCoder/snake/assets/115871297/dafde691-a809-44a9-a2b4-dde266b1dd6b)
 
 I also have a [practice repo](https://github.com/IceTheCoder/html-practice-projects), which includes, among other things: 
 ## An event page
