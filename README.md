@@ -18,7 +18,7 @@
 </div>
 
 # About me
-### I am a 15-year-old who loves coding (especially web and game development) and who is constantly in pursuit of learning more stuff.
+### I am a 16-year-old who loves coding (especially web development) and who is constantly in pursuit of learning more stuff.
 #### Site: https://icethecoder.github.io/
 
 ## My Stats
